@@ -27,7 +27,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "frConect/client.ts"  ],
   "exclude": [
     "node_modules"
   ]

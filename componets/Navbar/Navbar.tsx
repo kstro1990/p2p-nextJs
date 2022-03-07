@@ -49,7 +49,7 @@ const Navbar = () => {
     <>
         <nav>
             <menu>
-                <Link href="/" cls><a className='p-tabmenuitem'>Home</a></Link>
+                <Link href="/"><a className='p-tabmenuitem'>Home</a></Link>
                 <Link href="/about"><a className='p-tabmenuitem'>About</a></Link>
             </menu>
         </nav>
